@@ -1,4 +1,4 @@
-# Api simples para sistema de login útilizando autenticação JWT
+# Api simples para sistema de login utilizando autenticação JWT
 
 0 - Comando para baixar as dependências do projeto: npm install
 
